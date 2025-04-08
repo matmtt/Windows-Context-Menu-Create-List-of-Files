@@ -1,4 +1,4 @@
-# Windows Context Menu - Create File List
+# Windows Context Menu - Generate File List
 
 This is a simple way of generating the list of files of a given folder, by adding a new context menu entry.
 
